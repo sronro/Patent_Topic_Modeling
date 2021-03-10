@@ -5,3 +5,7 @@ Companies and individuals may be interested in where to place their next bets. P
 ## Uses
 
 This material is used for educational purposes.
+
+## Future Developments
+
+Turning this into a web interface where users can input technology field and get a snapshot of the field
